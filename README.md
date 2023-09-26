@@ -16,4 +16,10 @@ The components are inspired by Bootstrap 5 Framework.
 
 ## Usage
 The portfolio is a static responsive webpage built in HTML, Bootstrap 5 and custom CSS. The pictures below are screenshots of the website displayed on desktop, tablet, and mobile screens.
-i
+![](portfolio-pix1.png)
+
+![](portfolio-pix2.png)
+
+![](portfolio-pix3.png)
+
+![](portfolio-pix4.png)
