@@ -9,3 +9,10 @@ You can access the website page by clicking on the link below.
 GitHub Repository: https://github.com/Maxwella10/bootstrap-portfolio-1.git
 
 Deployed GitHub IO: https://maxwella10.github.io/bootstrap-portfolio-1/
+
+
+## Credits
+The components are inspired by Bootstrap 5 Framework.
+
+## Usage
+The portfolio is a static responsive webpage built in HTML, Bootstrap 5 and custom CSS. The pictures below are screenshots of the website displayed on desktop, tablet, and mobile screens.
