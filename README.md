@@ -8,4 +8,4 @@ You can access the website page by clicking on the link below.
 
 GitHub Repository: https://github.com/Maxwella10/bootstrap-portfolio-1.git
 
-Deployed GitHub IO:
+Deployed GitHub IO: https://maxwella10.github.io/bootstrap-portfolio-1/
