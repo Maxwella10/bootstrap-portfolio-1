@@ -5,3 +5,7 @@ This is a portfolio website built to showcase my skills in frontend web developm
 
 ## Links
 You can access the website page by clicking on the link below.
+
+GitHub Repository:
+
+Deployed GitHub IO:
