@@ -24,3 +24,17 @@ The portfolio is a static responsive webpage built in HTML, Bootstrap 5 and cust
 ![](portfolio-pix3.png)
 
 ![](portfolio-pix4.png)
+
+
+## To Execute File:
+
+Open in browser
+
+## Features:
+
+HTML Page
+
+Index.html
+
+contains personal bio
+
