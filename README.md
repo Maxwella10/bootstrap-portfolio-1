@@ -42,7 +42,6 @@ contains personal bio
 ## License
 Licenced under the MIT license.
 
-Image of github-profile-views-counter
 
 Copyright © 2023 Maxwell Acha
 
